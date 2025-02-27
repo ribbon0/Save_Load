@@ -1,0 +1,21 @@
+# Unity 불필요한 파일 무시
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Visual Studio 관련 파일 무시
+.vscode/
+*.csproj
+*.sln
+*.unityproj
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
